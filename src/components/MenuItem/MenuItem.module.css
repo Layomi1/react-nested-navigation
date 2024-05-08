@@ -1,0 +1,12 @@
+.menu-item {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  color: #fff;
+}
+
+.parent {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
